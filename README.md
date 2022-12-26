@@ -4,3 +4,15 @@
 
 학원공부하며 같이 공부한 내용들은 밑의 깃허브에 있습니다.
 https://github.com/jini5
+
+
+
+### 첫 번째 프로젝트(개인)
+- SmartStore 
+
+
+
+
+
+### 두 번째 프로젝트(팀)
+- Naver-pay-project
