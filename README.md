@@ -8,7 +8,8 @@ https://github.com/jini5
 
 
 ### 첫 번째 프로젝트(개인)
-- SmartStore 
+📌**SmartStore**
+
   -기능
     - 분류 기준
     - 고객의 분류기준을 입력할 수 있다.
@@ -33,4 +34,24 @@ https://github.com/jini5
 
 
 ### 두 번째 프로젝트(팀)
-- Naver-pay-project
+📌**Naver-pay-project**
+
+MVC 기반 네이버페이 웹 기능 구현 프로젝트
+</br>
+
+
+- [네이버페이] 사용자 메인 페이지 기능 구현
+
+- `주의사항` ✨
+    - 구현 범위에서 `뷰` 단은 모두 제외
+        - 간단하게 출력하는 식으로 뷰를 만들거나 뷰 없이 바로 `Controller` 단에서 테스트
+    - API 설계는 네이버페이와 동일하게 할 필요 없음
+    
+- 구현 범위
+    - [메인 페이지]로그인 기능    
+    - 네이버페이의 쇼핑 부분
+    
+- URL 설계
+    - URL은 직접 설계 [참고](https://sanghaklee.tistory.com/57)
+    - Naver Pay와 동일할 필요는 없음
+    - 아직  RestAPI를 공부하기 전이므로 `GET, POST` 메소드로만 설계
